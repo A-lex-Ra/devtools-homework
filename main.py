@@ -2,6 +2,7 @@ import sys
 
 def default():
     print('Привет первый курс')
+    print('Всем хорошей домашки')
 
 def main():
     default()
